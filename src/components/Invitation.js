@@ -4,9 +4,8 @@ import React from 'react'
 class Invitation extends React.component {
 
   render() {
-    <h1> 'You've been invited!' </h1>
     return (
-
+      <h1> 'You've been invited!' </h1>
       {this.props.children}
     )
   }
