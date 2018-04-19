@@ -8,4 +8,4 @@ class ThemedDecoration extends React.component {
 }
 
 
-export
+export default ThemedDecoration
