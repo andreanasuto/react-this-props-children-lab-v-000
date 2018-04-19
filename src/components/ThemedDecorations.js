@@ -2,10 +2,14 @@
 import React from 'react'
 
 class ThemedDecoration extends React.component {
-  constructor() {
-
+  render() {
+    return (
+      <div>
+        <p> a mamt </p>
+      </div>
+    )
   }
 }
 
 
-export default ThemedDecoration
+export default ThemedDecoration;
