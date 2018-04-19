@@ -5,8 +5,10 @@ class Invitation extends React.component {
 
   render() {
     return (
+      <div>
       <h1> YOU </h1>
       {this.props.children}
+      </div>
     )
   }
 }
